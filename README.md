@@ -703,7 +703,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Hemal Katariya** - *MERN Stack Developer* - [GitHub](https://github.com/AnshuHemal)
 
 ## 🙏 Acknowledgments
 
@@ -713,7 +713,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@yourdomain.com or join our Slack channel.
+For support, email connect.hemal@gmail.com or join our Slack channel.
 
 ## 🗺️ Roadmap
 
@@ -740,4 +740,4 @@ If you find this project useful, please consider giving it a star on GitHub!
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Hemal Katariya](https://github.com/AnshuHemal)
