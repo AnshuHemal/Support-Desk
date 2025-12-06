@@ -13,7 +13,8 @@ const Register = () => {
   const [showPassword, setShowPassword] = useState(false);
   const [loading, setLoading] = useState(false);
   const { register } = useAuth();
-  const navigate = useNavigate();
+  const navigate = useNavigate();
+
   const validatePassword = (password) => {
     const checks = {
       length: password.length >= 8,
@@ -48,7 +49,8 @@ const Register = () => {
   };
 
   const handleSubmit = async (e) => {
-    e.preventDefault();
+    e.preventDefault();
+
     if (passwordValidation && passwordValidation.passedChecks < 4) {
       toast.error('Please create a stronger password');
       return;
@@ -118,7 +120,7 @@ const Register = () => {
         </div>
 
         <div className="relative z-10 text-primary-foreground/60 text-sm">
-          © 2024 Support Desk. All rights reserved.
+          © 2025 Support Desk. All rights reserved.
         </div>
       </div>
 

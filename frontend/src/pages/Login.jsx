@@ -78,7 +78,7 @@ const Login = () => {
         </div>
 
         <div className="relative z-10 text-primary-foreground/60 text-sm">
-          © 2024 Support Desk. All rights reserved.
+          © 2025 Support Desk. All rights reserved.
         </div>
       </div>
 
